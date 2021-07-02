@@ -89,3 +89,4 @@ Kaggle provides a data dictionary detailing all of the features of the dataset. 
 * Matplotlib
 * NumPy
 * Jupyter Notebook
+* Anaconda
